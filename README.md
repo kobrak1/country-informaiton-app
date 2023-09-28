@@ -72,4 +72,4 @@ To run this app locally, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ----------------------------------------------------------------------------------------------
-This application was developed by Ahmet Burak Karhan. [email](aburakkarhan@gmail.com) - [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
+This application was developed by Ahmet Burak Karhan. [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
