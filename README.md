@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README file for your React app:
-
----
 
 # Country Information App
 
