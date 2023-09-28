@@ -1,6 +1,9 @@
 
 # Country Information App
 
+![ss_1](https://github.com/kobrak1/country-informaiton-app/assets/114083611/a3448ae2-1338-417e-b3e1-125152d70d78)![ss_2](https://github.com/kobrak1/country-informaiton-app/assets/114083611/ccc1a2b0-0688-4a36-ba99-2489250a77db)
+
+
 This is a simple React app that allows you to search for information about countries. You can search for a country by name, and the app will display details such as population, capital, languages spoken, and weather information for the capital city.
 
 ## Features
