@@ -66,10 +66,8 @@ To run this app locally, follow these steps:
 
 ## Author
 
-- Your Name
+- Ahmet Burak Karhan [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-----------------------------------------------------------------------------------------------
-This application was developed by Ahmet Burak Karhan. [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
