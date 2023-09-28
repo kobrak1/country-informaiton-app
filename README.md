@@ -71,7 +71,5 @@ To run this app locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file with additional information or sections as needed for your specific project. Make sure to replace placeholders with actual details, such as your API key, author name, and license information.
+----------------------------------------------------------------------------------------------
+This application was developed by Ahmet Burak Karhan. [email](aburakkarhan@gmail.com) - [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
