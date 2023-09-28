@@ -66,7 +66,7 @@ To run this app locally, follow these steps:
 
 ## Author
 
-- Ahmet Burak Karhan [linkedin](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
+- Ahmet Burak Karhan [(linkedin)](https://www.linkedin.com/in/ahmet-burak-karhan-972911153/)
 
 ## License
 
